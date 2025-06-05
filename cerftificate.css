@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: rgba(0, 0, 0, 0.836);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    /* width: auto; */
+    
+}
+
+.img{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+img{
+  height: 250px;
+  width: auto;
+  box-sizing: border-box;
+  border: 2px solid rgb(255, 187, 0);
+  border-radius: 5px;
+}
+a{
+    font-family: sans-serif;
+    text-decoration: none;
+    color: white;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
