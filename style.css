@@ -298,6 +298,10 @@ border: none;
     animation: pulse 2s infinite;
     transition: transform 0.2s ease-in-out;
   }
+.pulse-button a{
+  text-decoration: none;
+  color: white;
+  }
   
   @keyframes pulse {
     0% {
